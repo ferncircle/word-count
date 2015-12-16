@@ -1,2 +1,2 @@
 # word-count
-hadoop word-count
+hadoop word count
